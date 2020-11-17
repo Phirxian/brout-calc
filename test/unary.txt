@@ -1,0 +1,8 @@
+e
+phi
+pi
+
+log(e)
+sin(pi)
+cos(pi)
+tan(pi)

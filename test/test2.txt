@@ -1,0 +1,4 @@
+deuxpi = 2 * 3.1415926536;
+rayon = 3*8;
+circonference = deuxpi * rayon;
+circonference
